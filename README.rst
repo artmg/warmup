@@ -22,6 +22,12 @@ The library is primary intended to interface the 4IE with home assistant, but ma
 
 Home Assistant
 ---------------
+
+**WARNING:** `Home Assistant core changes in v0.96 mid 2019 <https://www.home-assistant.io/blog/2019/07/17/release-96/#climate>`_ broke the interface in this repo, which I have been too busy in recent months to fix. For an alternative project that has fixed these issues please try https://github.com/ha-warmup/warmup
+
+HA versions before 0.96
+---------------
+
 To setup this component, you need to register to warmup first.
 see https://my.warmup.com/login
 
