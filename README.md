@@ -118,6 +118,7 @@ climate:
 -   **password** (required): the password used to login to the warmup
     web site; may be moved to the secrets.yaml file. See
     [secrets](https://www.home-assistant.io/docs/configuration/secrets/)
+	    * some users have reported issues with certain special characters (like `&`) in the password - if you get AccessToken errors try reseting your password to have less complex characters in it, or perhaps even making it shorter.
 
 After restarting home assistant, the component will be loaded
 automatically.
