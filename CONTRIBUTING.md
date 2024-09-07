@@ -2,7 +2,7 @@
 
 Thank you for your interest in helping out with this project.
 
-Two very straighforward ways of getting involved on your own terms are:
+Two very straightforward ways of getting involved on your own terms are:
 
 * Issues
     * looking at [issues raised](https://github.com/ha-warmup/warmup/issues) and trying to advise users looking for help, or encouraging them to obtain useful diagnostics
